@@ -1,0 +1,27 @@
+C:\Users\elmag\source\repos\tataetos\tataetos\bin\Debug\tataetos.exe.config
+C:\Users\elmag\source\repos\tataetos\tataetos\bin\Debug\tataetos.exe
+C:\Users\elmag\source\repos\tataetos\tataetos\bin\Debug\tataetos.pdb
+C:\Users\elmag\source\repos\tataetos\tataetos\obj\Debug\tataetos.csproj.AssemblyReference.cache
+C:\Users\elmag\source\repos\tataetos\tataetos\obj\Debug\tataetos.Properties.Resources.resources
+C:\Users\elmag\source\repos\tataetos\tataetos\obj\Debug\tataetos.csproj.GenerateResource.cache
+C:\Users\elmag\source\repos\tataetos\tataetos\obj\Debug\tataetos.csproj.CoreCompileInputs.cache
+C:\Users\elmag\source\repos\tataetos\tataetos\obj\Debug\tataetos.exe
+C:\Users\elmag\source\repos\tataetos\tataetos\obj\Debug\tataetos.pdb
+C:\Users\elmag\source\repos\tataetos\tataetos\obj\Debug\tataetos.signinFrom.resources
+C:\Users\elmag\source\repos\tataetos\tataetos\obj\Debug\tataetos.MainMenu.resources
+C:\Users\elmag\source\repos\tataetos\tataetos\obj\Debug\tataetos.ShowTable.resources
+C:\Users\elmag\source\repos\tataetos\tataetos\obj\Debug\tataetos.insertTableForm.resources
+D:\Study\7. October 2022\Database\Project\Traffic System\GUI Program\GUI for Database Management\tataetos\bin\Debug\tataetos.exe.config
+D:\Study\7. October 2022\Database\Project\Traffic System\GUI Program\GUI for Database Management\tataetos\bin\Debug\tataetos.exe
+D:\Study\7. October 2022\Database\Project\Traffic System\GUI Program\GUI for Database Management\tataetos\bin\Debug\tataetos.pdb
+D:\Study\7. October 2022\Database\Project\Traffic System\GUI Program\GUI for Database Management\tataetos\obj\Debug\tataetos.csproj.AssemblyReference.cache
+D:\Study\7. October 2022\Database\Project\Traffic System\GUI Program\GUI for Database Management\tataetos\obj\Debug\tataetos.csproj.SuggestedBindingRedirects.cache
+D:\Study\7. October 2022\Database\Project\Traffic System\GUI Program\GUI for Database Management\tataetos\obj\Debug\tataetos.signinFrom.resources
+D:\Study\7. October 2022\Database\Project\Traffic System\GUI Program\GUI for Database Management\tataetos\obj\Debug\tataetos.insertTableForm.resources
+D:\Study\7. October 2022\Database\Project\Traffic System\GUI Program\GUI for Database Management\tataetos\obj\Debug\tataetos.MainMenu.resources
+D:\Study\7. October 2022\Database\Project\Traffic System\GUI Program\GUI for Database Management\tataetos\obj\Debug\tataetos.Properties.Resources.resources
+D:\Study\7. October 2022\Database\Project\Traffic System\GUI Program\GUI for Database Management\tataetos\obj\Debug\tataetos.ShowTable.resources
+D:\Study\7. October 2022\Database\Project\Traffic System\GUI Program\GUI for Database Management\tataetos\obj\Debug\tataetos.csproj.GenerateResource.cache
+D:\Study\7. October 2022\Database\Project\Traffic System\GUI Program\GUI for Database Management\tataetos\obj\Debug\tataetos.csproj.CoreCompileInputs.cache
+D:\Study\7. October 2022\Database\Project\Traffic System\GUI Program\GUI for Database Management\tataetos\obj\Debug\tataetos.exe
+D:\Study\7. October 2022\Database\Project\Traffic System\GUI Program\GUI for Database Management\tataetos\obj\Debug\tataetos.pdb
